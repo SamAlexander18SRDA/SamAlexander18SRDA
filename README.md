@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamAlexander18SRDA
+- 👋 Hi, I’m Sam Alexander (@SamAlexander18SRDA), a student at Queen's University in the Engineering Physics Department.
 - 👀 I’m interested in Statistical Mechanics and its applications for optimization problems.
 - 🌱 I’m currently learning Topology Optimization and its coding applications.
 - 📫 How to reach me  | Email: 18srda@queensu.ca
