@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam Alexander (@SamAlexander18SRDA), a recent grad at Queen's University in the Engineering Physics Department.
 - 👀 I’m interested in Statistical Mechanics and its applications for optimization problems.
-- 🌱 I’m currently learning Topology Optimization and its coding applications.
+- 🌱 I’m also a huge baseball geek, and I'm hoping to upload some analysis here over the coming weeks to chat a bit about my favourite stats.
 - 📫 How to reach me  | Email: samrdalexander@gmail.com
 
 <!---
